@@ -1,4 +1,4 @@
-#!/home/eblack/.rvm/rubies/ruby-1.9.2-p180/bin/ruby
+#!/usr/bin/env ruby
 
 require 'savon/client'
 
